@@ -16,9 +16,7 @@ Hello! I am a creative and innovative individual with a strong background in Art
 
 Here are some of the projects I have worked on:
 
-- **Project 1:** Description of project 1
-- **Project 2:** Description of project 2
-- **Project 3:** Description of project 3
+- **Project 1:** Zirnevisai.ir
 
 ## Contact
 
