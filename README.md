@@ -6,17 +6,17 @@ Hello! I am a creative and innovative individual with a strong background in Art
 
 ## Skills
 
-- **Artificial Intelligence**
-- **Deep Learning**
-- **Machine Learning**
-- **Python Programming**
-- **Neural Network Design**
+- Artificial Intelligence
+- Deep Learning
+- Machine Learning
+- Python Programming
+- Neural Network Design
 
 ## Projects
 
 Here are some of the projects I have worked on:
 
-- **Project 1:** Zirnevisai.ir
+- Project 1: [Zirnevisai.ir](https://github.com/Alpha-a-i/Zirnevisai.ir) - A project description goes here.
 
 ## Contact
 
